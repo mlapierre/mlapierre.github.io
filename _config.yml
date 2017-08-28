@@ -166,6 +166,11 @@ compress_html:
   ignore:
     envs: development
 
+analytics:
+  provider: "google-universal"
+  google:
+    tracking_id: "UA-105469357-1"
+
 # Defaults
 defaults:
   # _posts
