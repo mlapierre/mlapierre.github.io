@@ -1,12 +1,13 @@
 ---
 layout: single
 title:  "Summer of Data Science 2017 - Final Update"
+date:   2017-09-09 16:58:00 -0400
 categories: data-science
-tags: SoDS17, classification, topic-analysis
+tags: SoDS17 classification topic-analysis
 ---
 Ok, so it's not summer any more. My defence is that I did this work during summer but I'm only *writing* about it now.
 
-To recap, I'd been working on a smart filter; a system to predict articles I'd like based on articles I'd previously found interesting. I'm calling it my rss-thingy / smart filter / information assistant<sup id="fnr1"><a href="#fn1">1</a></sup>. I'm tempted to call it "theia", short for the information assistant, and a play on "the AI", but it sounds too much like a siri rip-off.
+To recap, I'd been working on a smart filter; a system to predict articles I'd like based on articles I'd previously found interesting. I'm calling it my rss-thingy / smart filter / information assistant<sup id="fnr1"><a href="#fn1">1</a></sup>. I'm tempted to call it "theia", short for "the information assistant" and a play on "the AI", but it sounds too much like a Siri rip-off. Which it's not.
 
 Aaaanyway, I'd collected 660 interesting articles and 801 that I didn't find interesting--fewer than expected, but I had to get rid of some that were too short or weren't articles (e.g., lists of links, or github repositories). There was also a bit of manual work to make sure none of the 'misses' were actually 'hits'. I.e., I didn't want interesting articles to turn up as misses, so I skimmed through all the misses to make sure they weren't coincidentally interesting (there were a few). The hits and misses then went into separate folders, ready to be loaded by scikit-learn.
 
