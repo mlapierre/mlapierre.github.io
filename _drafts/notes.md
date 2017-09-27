@@ -1,0 +1,1 @@
+* Organise data science project summaries by stages: Data Gathering, Data Preparation, Model Building, Model Validation, and Model Deployment.
