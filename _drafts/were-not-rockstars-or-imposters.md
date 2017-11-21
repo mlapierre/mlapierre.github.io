@@ -27,4 +27,4 @@ Similarly, the poor attitudes and bad behaviours of some workers are accepted be
 -----
 <p style="font-size:12px" id="fn1phony"><a href="#fnr1phony">1</a>. I think Scott's framing of being a 'phony' embodies the problems Rach was referring to regarding mislabelling positive personality traits, though to be fair to Scott, it's also clear he's not trying to minimise the experience of those who do suffer from the feelings described.
 <p style="font-size:12px" id="fndke"><a href="#fnrdke">2</a>. <a href="https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect">The Dunning-Kruger effect</a> in effect, so to speak.
-<p style="font-size:12px" id="fncomm"><a href="#fnrcomm">3</a>. Communication skills are apparently the #1 requirement in computing-related job ads (e.g., https://www.ziprecruiter.com/blog/job-skills-employers-want/). Other 'soft' skills are far less frequently mentioned.
+<p style="font-size:12px" id="fncomm"><a href="#fnrcomm">3</a>. Despite communication skills being apparently the #1 requirement in computing-related job ads (e.g., https://www.ziprecruiter.com/blog/job-skills-employers-want/). Other 'soft' skills are far less frequently mentioned.
