@@ -24,8 +24,7 @@ Despite a growing understanding of the importance of soft skills, the realities 
 
 Similarly, the poor attitudes and bad behaviours of some workers are accepted because of their technical skills, despite the negative impact they have on the people around them. I think this might provide a subtle influence on feeling like an imposter; we provide a perverse incentive for people to behave in ways that no reasonable person wants to. We encourage people to promote themselves as the best coder, the most knowledgeable developer, the ideal job candidate, and we (at least implicitly) discourage people from embracing their range of skills and their ability to improve.
 
-[The Dunning-Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) in effect, so to speak.
-
+-----
 <p style="font-size:12px" id="fn1phony"><a href="#fnr1phony">1</a>. I think Scott's framing of being a 'phony' embodies the problems Rach was referring to regarding mislabelling positive personality traits, though to be fair to Scott, it's also clear he's not trying to minimise the experience of those who do suffer from the feelings described.
 <p style="font-size:12px" id="fn2comm"><a href="#fnr2comm">2</a>. Communication skills are apparently the #1 requirement in computing-related job ads (e.g., https://www.ziprecruiter.com/blog/job-skills-employers-want/). Other 'soft' skills are far less frequently mentioned.
 <p style="font-size:12px" id="fn3dke"><a href="#fnr3dke">3</a>. <a href="https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect">The Dunning-Kruger effect</a> in effect, so to speak.
