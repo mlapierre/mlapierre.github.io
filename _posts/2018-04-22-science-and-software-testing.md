@@ -2,7 +2,7 @@
 layout: single
 title:  "Science and software testing"
 date:   2018-04-22 19:31:00 -0400
-categories: testing, science
+categories: testing science
 ---
 Software testing, particularly manual software testing, is sometimes thought of as nothing more than following a script to confirm that the software does what it was designed to do. From that perspective, testing might seem like a boring and relatively mindless task. And to be honest, that *is* [the traditional view](https://qacomplete.com/resources/articles/what-is-manual-testing/#manual_testing_as_script_following) of testing as part of the Waterfall method of software development in large organisations. Division of labour meant that there were some people who did nothing but follow scripts someone else had written, and report bugs that someone else would fix.
 
