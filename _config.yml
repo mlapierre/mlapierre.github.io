@@ -16,18 +16,19 @@
 title: Mark Lapierre
 title_separator: "|"
 name: &name "Mark Lapierre"
-email: mlapierre@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Cognitive science PhD, software and automation engineer, data science aspirant, perennial student.
+email: &email mlapierre@gmail.com
+description: "Cognitive science PhD, software and automation engineer, data science aspirant, perennial student."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://mlapierre.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: &uri "https://mlapierre.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 repository: mlapierre/mlapierre.github.io
 twitter:
   username: mdlap
 facebook:
   username: marklapierre
 author:
-  name             : #*name
+  name             : *name
+  email            : *email
+  uri              : *uri
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Software, test, and automation engineer; cognitive scientist; data science aspirant; perennial student."
   facebook         : marklapierre
